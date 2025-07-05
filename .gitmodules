@@ -1,0 +1,3 @@
+[submodule "cyberpunk-apps"]
+	path = cyberpunk-apps
+	url = https://github.com/andmunoz/cyberpunk-apps.git
